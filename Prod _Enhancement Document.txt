@@ -1,0 +1,9 @@
+1.Make changes to the folder names with respect to application name (DCE_AMAZON) in  CP-SF-INT bucket.
+2.Inclusion of Recon.
+3.Inventory stg - stg_publ Code Enhnacement.
+4.Table Not Null and Primary_Key constraints to be added.
+
+
+
+lineitems_sales changes
+Check isbn column if any records are there with alphabets remove that row.
