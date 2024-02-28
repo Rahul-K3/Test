@@ -3,7 +3,5 @@
 3.Inventory stg - stg_publ Code Enhnacement.
 4.Table Not Null and Primary_Key constraints to be added.
 
-
-
 lineitems_sales changes
 Check isbn column if any records are there with alphabets remove that row.
